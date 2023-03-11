@@ -1,0 +1,19 @@
+//webstom pass - B6Z5@S2LlAFw 
+
+// 2nd account
+email-fareyov752@wireps.com
+pass-hZ5R0&12aUjY
+
+//backend - develop
+	work on develop branch
+
+- git pull origin develop
+
+//backend project start cmd
+- yarn run prisma:generate && yarn build && yarn start:debug
+
+
+
+
+loader add karvu
+/home/lcom/Documents/tristar-git/StarLynx-2.0/src/routes/crm/playbook/components/Teams/Dashboard
